@@ -4,7 +4,7 @@ This repository contains the source code of the paper "Improving Distantly Super
 
 NYT dataset used for experiments in the paper can be downloaded from the following link:
 
-https://drive.google.com/drive/folders/1zSlXoeppoNpihbN75JbxuqZWiiYbpCLM
+https://drive.google.com/drive/folders/1zSlXoeppoNpihbN75JbxuqZWiiYbpCLM?usp=sharing
 
 Download train.json, dev.json, test.json, relations.txt, w2v.txt
 
